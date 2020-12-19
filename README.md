@@ -53,4 +53,4 @@ The solutions are collected from the internet.
 * [Generalized Abbreviation](LeetCode Locked/c1.37.md)
 * [Number of Connected Components in an Undirected Graph](LeetCode Locked/c1.38.md)
 * [Maximum Size Subarray Sum Equals K](LeetCode Locked/c1.40.md)
-* [Largest BST Subtree](LeetCode Locked/c1.41.md)
+ [Largest BST Subtree](LeetCode Locked/c1.41.md)
